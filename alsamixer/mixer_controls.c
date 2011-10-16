@@ -1,6 +1,6 @@
 /*
  * mixer_controls.c - handles mixer controls and mapping from selems
- * Copyright (c) 1998,1999 Tim Janik
+ * Copyright (c) 1998,1999 Tim Janik <timj@gtk.org>
  *                         Jaroslav Kysela <perex@perex.cz>
  * Copyright (c) 2009      Clemens Ladisch <clemens@ladisch.de>
  *
